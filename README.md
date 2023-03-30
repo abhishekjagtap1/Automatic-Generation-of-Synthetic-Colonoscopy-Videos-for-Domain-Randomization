@@ -9,11 +9,11 @@ This repository contains the method and pipeline proposed for generating domain 
 
 ## Table of Content
 
-#Prerequisites
-#Installation
-#Getting Started
-#Usage
-#Contributing
+-Item 1 #Prerequisites
+-Item 2 #Installation
+-Item 3 #Getting Started
+-Item 4 #Usage
+-Item 5 #Citation
 
 ## Pre-requisites
 
