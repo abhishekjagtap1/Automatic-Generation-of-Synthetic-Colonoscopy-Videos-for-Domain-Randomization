@@ -2,6 +2,8 @@
 
 By Abhishek Jagtap, Marian Himstedt
 
+This repository contains the method and pipeline proposed for generating domain randomized synthetic data as described in [Automatic Generation of Synthetic Colonoscopy Videos for Domain Randomization](https://www.degruyter.com/document/doi/10.1515/cdbme-2022-0031/html?lang=de). Our Paper was accepted and nominated for the best research paper award for [computer and robot-assisted surgery at the 21st annual conference of CURAC (2022)](https://www.curac.org/de/curac-2023/vergangene-jahrestagungen) at the Karlsruhe Institute of Technology (KIT) 
+
 
 
 
@@ -49,6 +51,8 @@ Once the
 Will complete it later.......
 
 ## Citation
+
+#Reference
 Few Sections are adapted from [VR-Caps](https://github.com/CapsuleEndoscope/VirtualCapsuleEndoscopy/tree/master/Creating%203D%20Models%20Tutorial)
 
 If you find this work helpful kindly cite:
@@ -64,6 +68,7 @@ If you find this work helpful kindly cite:
   year={2022},
   publisher={De Gruyter}
 }
+```
 
 
 
