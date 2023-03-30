@@ -48,6 +48,23 @@ Once the
 
 Will complete it later.......
 
+## Citation
+Few Sections are adapted from [VR-Caps](https://github.com/CapsuleEndoscope/VirtualCapsuleEndoscopy/tree/master/Creating%203D%20Models%20Tutorial)
+
+If you find this work helpful kindly cite:
+
+```bibtex
+@article{dinkar2022automatic,
+  title={Automatic Generation of Synthetic Colonoscopy Videos for Domain Randomization},
+  author={Dinkar Jagtap, Abhishek and Heinrich, Mattias and Himstedt, Marian},
+  journal={Current Directions in Biomedical Engineering},
+  volume={8},
+  number={1},
+  pages={121--124},
+  year={2022},
+  publisher={De Gruyter}
+}
+
 
 
 
