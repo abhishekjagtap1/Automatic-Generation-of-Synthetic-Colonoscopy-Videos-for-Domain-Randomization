@@ -2,7 +2,10 @@
 
 By Abhishek Jagtap, Marian Himstedt
 
-This repository contains the method and pipeline proposed for generating domain randomized synthetic data as described in [Automatic Generation of Synthetic Colonoscopy Videos for Domain Randomization](https://www.degruyter.com/document/doi/10.1515/cdbme-2022-0031/html?lang=de). Our Paper was accepted and nominated for the best research paper award for [computer and robot-assisted surgery at the 21st annual conference of CURAC (2022)](https://www.curac.org/de/curac-2023/vergangene-jahrestagungen) at the Karlsruhe Institute of Technology (KIT) 
+This repository contains the method and pipeline proposed for generating domain randomized synthetic data as described in [Automatic Generation of Synthetic Colonoscopy Videos for Domain Randomization](https://www.degruyter.com/document/doi/10.1515/cdbme-2022-0031/html?lang=de). Our Paper was accepted and nominated for the best research paper award for [computer and robot-assisted surgery at the 21st annual conference of CURAC (2022)](https://www.curac.org/de/curac-2023/vergangene-jahrestagungen)
+
+The Poster for the Paper summarizing the content can be found here
+![Example Image](Poster_Synthetic_Data.png)
 
 
 
