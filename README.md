@@ -52,7 +52,7 @@ Will complete it later.......
 
 ## Citation
 
-# Reference
+### Reference
 Few Sections are adapted from [VR-Caps](https://github.com/CapsuleEndoscope/VirtualCapsuleEndoscopy/tree/master/Creating%203D%20Models%20Tutorial)
 
 If you find this work helpful kindly cite:
